@@ -1,5 +1,5 @@
 DESCRIPTION:
-This comprehensive analysis delves into various facets of the beauty industry, shedding light on key aspects that impact business operations and profitability.
+This comprehensive analysis delves into various facets of the beauty industry in India, shedding light on key aspects that impact business operations and profitability.
 
  INSIGHTS: 
  In terms of transportation costs, air shipping stands out as the most expensive  option, whereas sea transport is the most economical choice
